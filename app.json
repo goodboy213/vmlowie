@@ -17,6 +17,6 @@
         }
     },
     "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/woderfillyoo/vmess/v2ray-heroku-master",
+    "repository": "https://github.com/woderfillyoo/vmess/tree/main/v2ray-heroku-master",
     "stack": "container"
 }
